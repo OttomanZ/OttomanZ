@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OttomanZ
 - 👀 I’m interested in Cyber Sec, AI and Automated Scripts.
-- 🌱 I’m currently learning AI.
+- 🌱 I know AI.
 - 💞️ I’m looking to collaborate on Everything releated to Python.
 - 📫 How to reach me muneebkhurram9@gmail.com
 - Website: Hackfor.me
