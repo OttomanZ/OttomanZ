@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muneeb A.
-- 👀 I’m interested Computer Vision, Automation and OCR.
+- 👀 I’m interested Computer Vision, Automation, OCR & Gen-AI
 - 💞️ I’m looking to collaborate on everything in python.
 - 📫 How to reach me muneeb@muneeb.co
 - Website: www.muneeb.co or beta.docwyn.com 
