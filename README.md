@@ -1,4 +1,4 @@
-## Brief OverviewAdd commentMore actions
+## Brief Overview
 
 🚀 Expertise in LLMs and Computer Vision Models: Developed advanced text extraction models powered by Gen AI LLMs and State of the Art Computer Vision techniques, achieving high accuracy and processing over 10 million invoices.
 
@@ -22,4 +22,6 @@
 
 ☁️ Cloud Platforms: Familiarity with SQL/NoSQL databases and cloud platforms (AWS, GCP).
 
-![Certainly! Here are some engaging and inviting headings for client reviews What Our Clients Are Saying Hear From Our Happy Customers Client Testimonials Voices of Satisfaction Rave Reviews Our Cli](https://github.com/user-attachments/assets/807d2564-a8a7-47df-b0bc-062745235f0a)Add comment
+![Certainly! Here are some engaging and inviting headings for client reviews What Our Clients Are Saying Hear From Our Happy Customers Client Testimonials Voices of Satisfaction Rave Reviews Our Cli](https://github.com/user-attachments/assets/807d2564-a8a7-47df-b0bc-062745235f0a)
+
+
