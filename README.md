@@ -20,7 +20,7 @@
 
 🔍 Fine-Tuning and Optimization: Fine-tuned LLMs for specific use cases, achieving high accuracy and optimizing performance. (BERT, RoBERTA, Phi-3, LLaMa-3.1, Gemini 2.0 Multi-Modal, GPT-4, and many more)
 
-☁️ Cloud Platforms: Familiarity with SQL/NoSQL databases and cloud platforms (AWS, GCP).
+☁️ Cloud Platforms: Familiarity with SQL/NoSQL databases and cloud platforms (AWS, GCP, Azure).
 
 ![Certainly! Here are some engaging and inviting headings for client reviews What Our Clients Are Saying Hear From Our Happy Customers Client Testimonials Voices of Satisfaction Rave Reviews Our Cli](https://github.com/user-attachments/assets/807d2564-a8a7-47df-b0bc-062745235f0a)
 
